@@ -24,7 +24,6 @@ The project lead is elected by CoreDNS maintainers
 according to an individual's technical merit to CoreDNS project.
 
 The current project lead is identified in the top level [OWNERS](OWNERS) file with the string
-(https://github.com/coredns/coredns/blob/master/OWNERS) file with the string
 `project lead` and the term behind the name.
 
 
@@ -87,7 +86,7 @@ or by sending an email to `maintainers@coredns.io`.
 In general, we prefer that technical issues and maintainer membership are amicably worked out between the persons involved.
 If a dispute cannot be decided independently, the project lead has the final say to decide an issue.
 
-Decision making process should be transparent and accessible to adhere to
+Decision making process should be transparent to adhere to
 the principles of CoreDNS project.
 
 All proposals, ideas, and decisions by maintainers or the project lead
