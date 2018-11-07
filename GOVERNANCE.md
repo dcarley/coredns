@@ -82,7 +82,7 @@ The project lead can volunteer to step down.
 
 Decisions are build on consensus between maintainers.
 Proposals and ideas can either be submitted for agreement via a github issue or PR,
-or by sending an email to `maintainer@coredns.io`.
+or by sending an email to `maintainers@coredns.io`.
 
 In general, we prefer that technical issues and maintainer membership are amicably worked out between the persons involved.
 If a dispute cannot be decided independently, the project lead has the final say to decide an issue.
