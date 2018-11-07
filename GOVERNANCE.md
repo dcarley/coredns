@@ -6,7 +6,7 @@ The CoreDNS community adheres to the following principles:
 
 - Open: CoreDNS is open source, advertised on [our website](https://coredns.io/community).
 - Welcoming and respectful: See [Code of
-  Conduct](https://github.com/coredns/coredns/blob/master/CODE-OF-CONDUCT.md).
+  Conduct](CODE-OF-CONDUCT.md).
 - Transparent and accessible: Work and collaboration are done in public.
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with
   project objectives, scope, and design principles.
