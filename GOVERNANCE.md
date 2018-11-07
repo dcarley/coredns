@@ -23,7 +23,7 @@ The term of the project lead is two years, with no term limit restriction.
 The project lead is elected by CoreDNS maintainers
 according to an individual's technical merit to CoreDNS project.
 
-The current "project lead" is identified in the top level [OWNERS]
+The current project lead is identified in the top level [OWNERS](OWNERS) file with the string
 (https://github.com/coredns/coredns/blob/master/OWNERS) file with the string
 `project lead` and the term behind the name.
 
