@@ -43,7 +43,7 @@ file, with their Github handle and a possibly obfuscated email address. Everyone
 
 A Maintainer is also listed in a plugin specific OWNERS file.
 
-A Maintainer should be a member of `maintainer@coredns.io`, although this is not a hard requirement.
+A Maintainer should be a member of `maintainers@coredns.io`, although this is not a hard requirement.
 
 ## Becoming a Maintainers
 
