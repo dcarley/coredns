@@ -102,7 +102,7 @@ The __coredns__ GitHub project maintainers team reflects the list of Maintainers
 The CoreDNS organization is open to receive new sub-projects under its umbrella. To accept a project
 into the __CoreDNS__ organization, it has to meet the following criteria:
 
-- Must be licensed under the terms of the Apache License v2.0.
+- Must be licensed under the terms of the Apache License v2.0
 - Must be related to one or more scopes of the CoreDNS ecosystem:
   - CoreDNS project artifacts (website, deployments, CI, etc)
   - External plugins
