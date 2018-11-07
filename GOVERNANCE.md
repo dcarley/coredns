@@ -47,7 +47,7 @@ A Maintainer should be a member of `maintainers@coredns.io`, although this is no
 
 ## Becoming a Maintainers
 
-On successful merge of a significant pull request, any current maintainer can reach
+On successful merge of a significant pull request any current maintainer can reach
 to the author behind the pull request and ask them if they are willing to become a CoreDNS
 maintainer.
 
