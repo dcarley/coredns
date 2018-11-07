@@ -58,7 +58,7 @@ step down.
 
 The CoreDNS organization will never forcefully remove a current Maintainer, unless a maintainer
 fails to meet the principles of CoreDNS community,
-or adhere to the [Code of Conduct](https://github.com/coredns/coredns/blob/master/CODE-OF-CONDUCT.md).
+or adhere to the [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ## Changes in Project Lead
 
