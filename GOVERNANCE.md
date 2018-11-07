@@ -107,7 +107,7 @@ into the __CoreDNS__ organization, it has to meet the following criteria:
   - CoreDNS project artifacts (website, deployments, CI, etc)
   - External plugins
   - Other DNS related processing
-- Must be supported by a Maintainer
+- Must be supported by a Maintainer not associated or affiliated with the author(s) of the sub-projects
 
 The submission process starts as a Pull Request or Issue on the
 [coredns/coredns](https://github.com/coredns/coredns) repository with the required information
