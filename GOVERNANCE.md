@@ -5,8 +5,7 @@
 The CoreDNS community adheres to the following principles:
 
 - Open: CoreDNS is open source, advertised on [our website](https://coredns.io/community).
-- Welcoming and respectful: See [Code of
-  Conduct](CODE-OF-CONDUCT.md).
+- Welcoming and respectful: See [Code of Conduct](CODE-OF-CONDUCT.md).
 - Transparent and accessible: Work and collaboration are done in public.
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with
   project objectives, scope, and design principles.
@@ -29,7 +28,7 @@ The current project lead is identified in the top level [OWNERS](OWNERS) file wi
 
 ## Expectations from Maintainers
 
-Every one carries water....
+Every one carries water...
 
 Making a community work requires input/effort from everyone. Maintainers should actively
 participate in Pull Request reviews. Maintainers are expected to respond to assigned Pull Requests
