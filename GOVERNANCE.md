@@ -41,7 +41,7 @@ Every Maintainer is listed in the top-level [OWNERS](https://github.com/coredns/
 file, with their Github handle and a possibly obfuscated email address. Everyone in the
 `approvers` list is a Maintainer.
 
-A Maintainer is also listed in a plugin specific OWNER file.
+A Maintainer is also listed in a plugin specific OWNERS file.
 
 A Maintainer should be a member of `maintainer@coredns.io`, although this is not a hard requirement.
 
