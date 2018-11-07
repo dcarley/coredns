@@ -116,7 +116,7 @@ of CoreDNS__.
 
 ## Code of Conduct
 
-The [CoreDNS Code of Conduct](https://github.com/coredns/coredns/blob/master/CODE-OF-CONDUCT.md) is aligned with the CNCF Code of Conduct.
+The [CoreDNS Code of Conduct](CODE-OF-CONDUCT.md) is aligned with the CNCF Code of Conduct.
 
 ## Credits
 
