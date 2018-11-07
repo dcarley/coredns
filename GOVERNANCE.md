@@ -91,7 +91,7 @@ Decision making process should be transparent and accessible to adhere to
 the principles of CoreDNS project.
 
 All proposals, ideas, and decisions by maintainers or the project lead
-should either be part of a github issue or PR, or be sent to `maintainer@coredns.io`.
+should either be part of a github issue or PR, or be sent to `maintainers@coredns.io`.
 
 ## Github Project Administration
 
