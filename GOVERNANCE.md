@@ -70,6 +70,7 @@ Only the following votes are binding:
 2) Any maintainer from an organization may cast the vote for that organization. However, no organization
 should have more binding votes than 1/5 of the total number of maintainers defined in 1).
 
+The PR should only be opened no earlier than 6 weeks before the end of the project lead's term.
 The PR should be kept open for no less than 4 weeks. The PR can only be merged after the end of the
 last project lead's term, with more +1 than -1 in the binding votes.
 
