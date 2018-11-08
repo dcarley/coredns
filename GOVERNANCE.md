@@ -43,7 +43,7 @@ A Maintainer is also listed in a plugin specific OWNERS file.
 
 A Maintainer should be a member of `maintainers@coredns.io`, although this is not a hard requirement.
 
-## Becoming a Maintainers
+## Becoming a Maintainer
 
 On successful merge of a significant pull request any current maintainer can reach
 to the author behind the pull request and ask them if they are willing to become a CoreDNS
