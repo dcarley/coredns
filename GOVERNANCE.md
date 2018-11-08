@@ -122,6 +122,13 @@ is the same as a Pull Request submission. Unlike small Pull Requests though, a n
 should only be approved by a maintainer not associated or affiliated with the author(s) of the
 plugin.
 
+## CoreDNS and CNCF
+
+CoreDNS is a CNCF project. As such, CoreDNS might be involved in CNCF (or other CNCF projects) related
+marketing, events, or activities. Any maintainer could help driving the CoreDNS involvement, as long as
+she/he sends email to `maintainers@coredns.io` (or create a GitHub Pull Request) to call for participation
+from other maintainers.
+
 ## Code of Conduct
 
 The [CoreDNS Code of Conduct](CODE-OF-CONDUCT.md) is aligned with the CNCF Code of Conduct.
