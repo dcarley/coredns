@@ -17,7 +17,7 @@ The CoreDNS project has a project lead.
 A project lead in CoreDNS is
 a single person that has a final say in any decision concerning the CoreDNS project.
 
-The term of the project lead is two years, with no term limit restriction.
+The term of the project lead is one year, with no term limit restriction.
 
 The project lead is elected by CoreDNS maintainers
 according to an individual's technical merit to CoreDNS project.
