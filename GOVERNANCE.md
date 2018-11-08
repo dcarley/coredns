@@ -77,6 +77,13 @@ When there are conflicting PRs about changes in project lead, the PR with the mo
 
 The project lead can volunteer to step down.
 
+## Changes in Project Governance
+
+Changes in project governance (GOVERNANCE.md) could be initiated by opening a github PR.
+The PR should only be opened no earlier than 6 weeks before the end of the project lead's term.
+The PR should be kept open for no less than 4 weeks. The PR can only be merged follow the same
+voting process as in `Changes in Project Lead`.
+
 ## Decision making process
 
 Decisions are build on consensus between maintainers.
