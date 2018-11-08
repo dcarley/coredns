@@ -47,7 +47,8 @@ A Maintainer should be a member of `maintainers@coredns.io`, although this is no
 
 On successful merge of a significant pull request any current maintainer can reach
 to the author behind the pull request and ask them if they are willing to become a CoreDNS
-maintainer.
+maintainer. The email of the new maintainer invitation should be cc'ed to `maintainers@coredns.io`
+as part of the process.
 
 ## Changes in Maintainership
 
