@@ -114,6 +114,13 @@ The submission process starts as a Pull Request or Issue on the
 mentioned above. Once a project is accepted, it's considered a __CNCF sub-project under the umbrella
 of CoreDNS__.
 
+## New Plugins
+
+The CoreDNS is open to receive new plugins as part of the CoreDNS repo. The submission process
+is the same as a Pull Request submission. Unlike small Pull Requests though, a new plugin submission
+should only be approved by a maintainer not associated or affiliated with the author(s) of the
+plugin.
+
 ## Code of Conduct
 
 The [CoreDNS Code of Conduct](CODE-OF-CONDUCT.md) is aligned with the CNCF Code of Conduct.
