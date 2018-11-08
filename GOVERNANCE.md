@@ -127,7 +127,8 @@ plugin.
 CoreDNS is a CNCF project. As such, CoreDNS might be involved in CNCF (or other CNCF projects) related
 marketing, events, or activities. Any maintainer could help driving the CoreDNS involvement, as long as
 she/he sends email to `maintainers@coredns.io` (or create a GitHub Pull Request) to call for participation
-from other maintainers.
+from other maintainers. The `Call for Participation` should be kept open for no less than a week if time
+permits, or a _reasonable_ time frame to allow maintainers to have a chance to volunteer.
 
 ## Code of Conduct
 
